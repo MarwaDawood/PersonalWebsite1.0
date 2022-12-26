@@ -1,23 +1,27 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/102393807/209582830-5b30fe27-bc0d-4d81-b3fc-18b79082ca3e.png" alt=”my banner”>
 
-</p>
-
-
 <h1 align="center">    Hi! 👋🏼   I'm Marwa!  </h1>
 <h5 align="center" >   I am a Junior Full-stack Web Developer 👩🏻‍💻 </h5>
 <h3 align="center">  About me 🚀   </h3>
-<p align="center" > I am a highly professional, dedicated, and motivated junior full-stack software developer with four years of experience in retail, sales, and people management. I am currently pursuing a career in tech by enrolling in a Software Development Bootcamp with The School of Code and am also completing the Harvard-renowned CS50x online course in my spare time. </p>
-
-
-
-### 🤝🏼 Connect with me:
-
-<a href="https://www.linkedin.com/in/marwa-dawood/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="21px"/></a>
-
-<a href="https://www.twitter.com/Marwa__Dawood/"><img align="left" src="https://user-images.githubusercontent.com/102393807/209584292-6495b361-31e0-4ab6-98dc-75ee6c1d838d.png" alt="Marwa__Dawood | Twitter" width="21px"/></a>
+<p align="center" > I am a highly professional, dedicated, and motivated junior full-stack software developer with four years of experience in retail, sales, and people management. I am currently pursuing a career in tech by enrolling in a Software Development Bootcamp with The School of Code and am also completing the Harvard-renowned CS50x online course in my spare time. 
+</P>
  
- <br>
+ 
+<br>
+
+
+## 🤝🏼 Connect with me
+
+<a href="https://www.linkedin.com/in/marwa-dawood/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="35px"/> </a>
+<a href="https://www.twitter.com/Marwa__Dawood/"><img align="left" src="https://user-images.githubusercontent.com/102393807/209584292-6495b361-31e0-4ab6-98dc-75ee6c1d838d.png" alt="Marwa__Dawood | Twitter" width="35px"/> </a>
+ 
+ 
+
+
+
+
+<br>
 
 
 ## 💻 I'm currently working on
@@ -40,8 +44,6 @@
 
 ## 🌐 ⚒️ Languages and Tools
 
- 
- 
 <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26" alt="HTML"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6" alt="CSS"/> </a>
 <a href="https://github.com/about" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717" alt="GitHub"/> </a>
@@ -56,8 +58,6 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&color=61DAFB" alt="Jest" /> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB" alt="React.js"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-TypeScript-informational?  style=flat&logo=TypeScript&color=61DAFB" alt="TypeScript"/> </a>
-
- </p>
 
  <br>
   

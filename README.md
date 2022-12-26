@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning coding with the School of Code 
 - 😄 Pronouns: Her/She
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/marwa-dawood) || [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1.svg?style=flat&logo=twitter&colorB=1ca0f1)](https://twitter.com/Marwa__Dawood) || [![Email](https://img.shields.io/badge/-Email-blue.svg?style=flat&logo=gmail&colorB=blue)](mailto:marwa.dawood@hotmail.com) ||
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/marwa-dawood)     [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1.svg?style=flat&logo=twitter&colorB=1ca0f1)](https://twitter.com/Marwa__Dawood)    [![Email](https://img.shields.io/badge/-Email-black.svg?style=flat&logo=gmail&colorB=555)](mailto:marwa.dawood@hotmail.com) 
 
 
 

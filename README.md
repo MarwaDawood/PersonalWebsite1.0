@@ -9,15 +9,15 @@
 <h3 align="center">  About me 🚀   </h3>
 <p align="center" > I am a highly professional, dedicated, and motivated junior full-stack software developer with four years of experience in retail, sales, and people management. I am currently pursuing a career in tech by enrolling in a Software Development Bootcamp with The School of Code and am also completing the Harvard-renowned CS50x online course in my spare time. </p>
 
+
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/marwa-dawood/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="21px"/></a>
 
-https://user-images.githubusercontent.com/102393807/209583826-2064a85f-255f-4a29-931e-af0ce61c2075.png
-
-
-
  💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
 
 
 ## 🔭 I'm currently working on
@@ -29,11 +29,16 @@ https://user-images.githubusercontent.com/102393807/209583826-2064a85f-255f-4a29
 - Developing a personal app
 
 
+
+
 ## 🌱 I'm currently learning
 
 - React Hooks 
 - 
 - 
+
+
+
 
 
 
@@ -48,11 +53,6 @@ https://user-images.githubusercontent.com/102393807/209583826-2064a85f-255f-4a29
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=61DAFB)
-
-
-
-</br>
-
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 
 

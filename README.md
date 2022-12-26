@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Marwa(she/her) a junior full-stack software developer 
+### Hi 👋 I'm Marwa!
+## A junior full-stack software developer. 
 
 Socials:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/marwa-dawood)     [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1.svg?style=flat&logo=twitter&colorB=1ca0f1)](https://twitter.com/Marwa__Dawood)    [![Email](https://img.shields.io/badge/-Email-blue.svg?style=flat&logo=gmail&colorB=blue)](mailto:marwa.dawood@hotmail.com) 
 

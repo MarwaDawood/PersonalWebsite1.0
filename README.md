@@ -2,7 +2,7 @@
 #### A junior full-stack software developer 
 
 
-### About me 
+                                                                   ### About me 🚀
 
 I am a highly professional, dedicated, and motivated junior full-stack software developer with four years of experience in retail, sales, and people management. I am currently pursuing a career in tech by enrolling in a Software Development Bootcamp with The School of Code and am also completing the Harvard-renowned CS50x online course in my spare time. 
 

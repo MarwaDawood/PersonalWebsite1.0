@@ -58,7 +58,7 @@
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&color=181717)
 ![](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=node&color=181717)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-<a href="https://https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=336791" alt="MySQL"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=336791" alt="MySQL"/> </a>
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=61DAFB)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)

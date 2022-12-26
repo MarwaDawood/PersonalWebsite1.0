@@ -17,7 +17,7 @@
 
 <a href="https://www.twitter.com/Marwa__Dawood/"><img align="left" src="https://user-images.githubusercontent.com/102393807/209584292-6495b361-31e0-4ab6-98dc-75ee6c1d838d.png" alt="Marwa__Dawood | Twitter" width="21px"/></a>
  
- <b>
+ <br>
 
 
 ## 💻 I'm currently working on
@@ -28,16 +28,18 @@
 - Building my portfolio
 - Developing a personal app
 
- <b>
+ <br>
 
 ## 📖 I'm currently learning
 
 - React Hooks 
 - Next.js
 
- <b>
-<h3 align="left"> 🌐 ⚒️ Languages and Tools:</h3>
-<p align="center"> 
+ <br>
+ 
+
+## 🌐 ⚒️ Languages and Tools
+
  
  
 <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26" alt="HTML"/> </a>
@@ -57,13 +59,13 @@
 
  </p>
 
- <b>
+ <br>
   
 ## ⚔️ Codewar
 
 ![Codewars Badge](https://www.codewars.com/users/Marwa%20Dawood/badges/large)
 
-   <b>
+   <br>
 
 ## 📈 GitHub Stats 
 

@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning coding with the School of Code 
 - 😄 Pronouns: Her/She
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/in/marwa-dawood)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-red.svg?style=flat&logo=linkedin&colorB=red)](https://www.linkedin.com/in/marwa-dawood)
 
 <!--
 **MarwaDawood/MarwaDawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

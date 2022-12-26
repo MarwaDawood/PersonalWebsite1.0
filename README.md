@@ -1,3 +1,11 @@
+
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/102393807/209582226-bb56872f-5153-4e25-b737-a6ba8cbe37d7.png" alt=”my banner”>
+
+</p>
+
+
 <h1 align="center">    Hi! 👋🏼   I'm Marwa!  </h1>
 <h5 align="center" >   I am a Junior Full-stack Web Developer </h5>
 

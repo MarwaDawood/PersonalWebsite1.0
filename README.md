@@ -22,6 +22,9 @@ I am a highly professional, dedicated, and motivated junior full-stack software 
 [![Codewars Badge](https://www.codewars.com/users/Marwa%20Dawood/badges/large)](https://www.codewars.com/users/Marwa%20Dawood)
 
 
+* {
+  text-align: center;
+}
 
 
 

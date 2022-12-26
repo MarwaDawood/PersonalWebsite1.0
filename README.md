@@ -53,28 +53,24 @@
  
  
 <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26" alt="HTML"/> </a>
- 
- 
- 
- 
- 
- 
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&color=181717)
-![](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=node&color=181717)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6" alt="CSS"/> </a>
+<a href="https://github.com/about" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717" alt="GitHub"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E" alt="JavaScript"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&color=181717" alt="Express.js"/> </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=node&color=181717" alt="Node.js"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791" alt="PostgreSQL"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=336791" alt="MySQL"/> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=postman&color=61DAFB" alt="postman" width="40" height="40"/> </a>
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=61DAFB)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E) 
-    
-    
-    
-    
- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=postman&color=61DAFB" alt="Postman"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" alt="React.js"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=61DAFB" alt="TypeScript"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src=" 
+https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E" alt="Figma"/> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=typescript&color=61DAFB" alt="Cypress" /> </a>
+ 
+ 
+ 
+ 
+ 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a>

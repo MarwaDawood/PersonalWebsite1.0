@@ -11,7 +11,7 @@
 
 
 
-### 🤝 Connect with me:
+### 🤝🏼 Connect with me:
 
 <a href="https://www.linkedin.com/in/marwa-dawood/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="21px"/></a>
 
@@ -19,14 +19,7 @@
 
 
 
-<br> 
-
-
-
-
-
-
-## 🔭 I'm currently working on
+## 💻 I'm currently working on
 
 - Finishing my final project in my School of Code Bootcamp
 - Improving my React skills
@@ -36,19 +29,13 @@
 
 
 
-
-## 🌱 I'm currently learning
+## 📖 I'm currently learning
 
 - React Hooks 
 - Next.js
 
 
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🌐 ⚒️ Languages and Tools:</h3>
 <p align="center"> 
  
  

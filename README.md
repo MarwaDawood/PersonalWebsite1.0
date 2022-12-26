@@ -17,6 +17,7 @@
 <a href="https://www.twitter.com/Marwa__Dawood/"><img align="left" src="https://user-images.githubusercontent.com/102393807/209584292-6495b361-31e0-4ab6-98dc-75ee6c1d838d.png" alt="Marwa__Dawood | Twitter" width="35px"/> </a>
 <a href="https://www.hotmail.com.com"><img align="left" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=email&logoColor=white" alt=" | Hotmail" width="80px"/> </a> 
  
+ ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  
  <br>
 

@@ -41,7 +41,7 @@
 
 - React Hooks 
 - Next.js
-- 
+
 
 
 

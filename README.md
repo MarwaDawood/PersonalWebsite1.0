@@ -61,7 +61,7 @@
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791" alt="PostgreSQL"/> </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791" alt="MySQL"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=Postman&color=61DAFB" alt="Postman"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React.js&color=61DAFB" alt="React.js"/> </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB" alt="React.js"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=61DAFB" alt="TypeScript"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E" alt="Figma"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=Cypress&color=61DAFB" alt="Cypress" /> </a>

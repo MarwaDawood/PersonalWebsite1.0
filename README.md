@@ -15,7 +15,7 @@
 
 <a href="https://www.linkedin.com/in/marwa-dawood/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="35px"/> </a>
 <a href="https://www.twitter.com/Marwa__Dawood/"><img align="left" src="https://user-images.githubusercontent.com/102393807/209584292-6495b361-31e0-4ab6-98dc-75ee6c1d838d.png" alt="Marwa__Dawood | Twitter" width="35px"/> </a>
-<img align="left src="https://user-images.githubusercontent.com/102393807/209590242-2a31c21e-0f42-4934-b0ac-64bdccb87b7f.png" width="35px />(mailto:marwa.dawood@hotmail.com) 
+<a href="(mailto:marwa.dawood@hotmail.com)"> <img align="left src="https://user-images.githubusercontent.com/102393807/209590242-2a31c21e-0f42-4934-b0ac-64bdccb87b7f.png" width="35px"/> </a>
  
 
 

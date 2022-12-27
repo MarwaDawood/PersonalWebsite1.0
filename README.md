@@ -44,7 +44,7 @@
  <br>
  
 
-## 🌐 ⚒️ Languages and Tools
+## 🌐 Languages and Tools
 
 <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26" alt="HTML"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6" alt="CSS"/> </a>

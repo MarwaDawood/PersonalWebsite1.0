@@ -28,8 +28,8 @@
 
 ## 💻 I'm currently working on
 
-- Finishing my final project in my School of Code Bootcamp
 - Improving my React skills
+- Leaning Python
 - Finishing the Harvard CX50 course
 - Building my portfolio
 - Developing a personal app

@@ -4,7 +4,7 @@
 <h1 align="center">    Hi! 👋🏼   I'm Marwa!  </h1>
 <h4 align="center" >   I am a Junior Full-stack Web Developer 👩🏻‍💻 </h4>
 <h3 align="center">  About me 🚀   </h3>
-<p align="center" > I am a highly professional, dedicated, and motivated junior full-stack software developer with four years of experience in retail, sales, and people management. I am currently pursuing a career in tech by enrolling in a Software Development Bootcamp with The School of Code and am also completing the Harvard-renowned CS50x online course in my spare time. 
+<p align="center" > I am a highly professional, dedicated, and motivated junior full-stack software developer with four years of experience in retail, sales, and people management. I am currently pursuing a career in tech by completing a Software Development Bootcamp with The School of Code and I am also completing the Harvard-renowned CS50x online course in my spare time. 
 </P>
  
  

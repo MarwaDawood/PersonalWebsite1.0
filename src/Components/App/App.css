@@ -1,0 +1,19 @@
+
+
+:root{
+  --backgroundColor:#e6e9e6;
+  --accentColor1: #006633;
+  --accentColor2: #666666;
+}
+
+
+.App {
+  display: flex;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+

@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './Components/Header/Header'; 
+import NavBar from './Components/NavBar/NavBar';
 import Intro from "./Components/Intro/Intro";
 import About from "./Components/About/About";
 import Projects from "./Components/Projects/Project";
@@ -14,7 +14,7 @@ const App = () => {
   return (
  
     <>
-   <Header />
+   <NavBar />
    <Intro />
    <About />
    <Projects />

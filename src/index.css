@@ -1,4 +1,143 @@
-body {
-    background-color: black;
-    color: white;
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
 }
+
+:root {
+    --backgroundColor: white;
+    --accentColor1: #006633;
+    --accentColor2: #666666;
+
+
+
+    --transition: all 400ms ease; 
+    --container-width-l: 75%;
+    --container-width-m: 86%;
+    --container-width-s: 90%;
+
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font: arial;
+    background-color: var(--backgroundColor);
+    line-height: 1.7;
+}
+
+
+
+.container {
+    width: var(--container-width-l);
+    margin: 0 auto;
+}
+
+
+h1, h2, h3, h4, h5 {
+   font-weight: 500;
+   color: black;
+
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+section {
+    margin-top: 8rem;
+}
+
+section > h2, section > h5 {
+    text-align: center;
+} 
+
+section > h2 {
+    color: green;
+    margin-bottom: 3rem;
+
+}
+
+.text-light {
+    color: green;
+     
+}
+
+a {
+    color: var(--accentColor2);
+    transition: var(--transition); 
+}
+
+
+a:hover {
+    color: var(--accentColor1)
+}
+
+.btn1, .btn2 {
+    width: max-content;
+    display: inline-block;
+    color: var(--accentColor1);
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4re;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 15px;
+    transition: var(--transition);
+}
+
+.btn2 {
+    background-color: var(--accentColor1);
+    color: var(--backgroundColor);
+
+}
+
+
+.btn1:hover, .btn2:hover {
+    background-color: white;
+    color:#006633;
+    border-color: transparent ;
+
+}
+
+img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+/* medium devices */
+
+@media screen and (max-width: 1024px) {
+ .container { 
+    width: var(--container-width-m);
+ }
+
+ section  {
+    margin-top: 6rem; 
+ }
+}
+
+
+/* small devices */
+
+@media screen and (max-width: 600px) {
+
+    .container {
+        width: var(--container-width-s);
+    }
+
+   section > h2 {
+    margin-bottom: 2rem;
+   }
+
+}
+

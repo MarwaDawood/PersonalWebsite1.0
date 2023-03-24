@@ -1,20 +1,19 @@
-
-
 nav {
-    position: fixed;
+    position: absolute;
     display: flex;
     justify-content:flex-end;
     width: 100%;
     height: auto;
     padding: 10px 0 10px 30px;
-    background-color: var(--backgroundColor)
+    background-color: var(--backgroundColor);
+    top: 0;
 
 
 }
 
 nav > img {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 
@@ -51,11 +50,15 @@ li a:hover {
 }
 
 
-.logo1 {
-    position: absolute;
-    top: 1;
-    left: 1;
-  
-}
+.logo3 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 25px;
+    width: 11%;
+    margin-top: -25px;
 
+   
+}
+ 
 

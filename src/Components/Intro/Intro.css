@@ -1,14 +1,15 @@
 header {
-    height: 100vh;
-    padding-top: 7rem;
+    height: 70vh;
+    padding-top: 3rem;
     overflow: hidden;
    
 }
 
-.header__container {
+.header_container {
     text-align: center;
     height: 100%;
     position: relative;
+
    
 
 }
@@ -36,18 +37,6 @@ header {
     width: 1px;
     height: 2rem;
     background-color: var(--backgroundColor);
-}
-
-.profilePic {
-    background-color: linear-gradiant(var(--backgroundColor), transparent);
-    width: 22rem;
-    height: 25rem;
-    position: absolute;
-    left: calc(50% - 11rem);
-    margin-top: 4rem;
-    overflow: hidden;
-    padding: 1rem 1.5rem 1.5rem 1.5rem;
-
 }
 
 
@@ -81,3 +70,29 @@ header {
 .name:hover {
     color: var(--accentColor3);
 }
+
+/* medium devices */
+
+@media screen and (max-width: 1024px) {
+   .header {
+    height: 60vh;
+
+   } 
+
+ }
+
+
+/* small devices */
+
+@media screen and (max-width: 600px) {
+.header {
+        height: 100  vh;
+
+    }
+
+.socials, .scroll_down {
+    display: none;
+}
+
+}
+

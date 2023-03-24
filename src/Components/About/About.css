@@ -1,0 +1,89 @@
+ .about_container {
+    height: 100vh;
+    margin-top: -25%;
+    overflow: hidden;
+  
+ }
+
+
+ .about_me {
+     aspect-ratio: 1/1;
+     border-radius: 2rem;
+     border: var(--accentColor3) solid;
+     background: white;
+     display: flex;
+     flex-wrap: wrap;
+     width: 50%;
+     height: 60%;
+     margin-top: 5%;
+     margin-left: 45%;
+     transform: rotate(0);
+     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+    
+     
+    
+ }
+
+ .about_me:hover {
+    transform: rotate(-1deg);
+    transition: var(--transition);
+    
+    
+ }
+
+.title1 {
+    font-size: 2.5rem;
+    color: var(--accentColor3);
+    text-align: center;
+    white-space: nowrap;
+    width: 100%;
+    line-height: 60px;
+
+}
+
+.profilePic {
+    width: 25rem;
+    position: absolute;
+    overflow: hidden;
+    margin-left: 10%;
+    margin-top: 10%;
+ 
+}
+
+p {
+ margin: 2rem;
+ color: var(--accentColor2);
+  
+}
+
+.title2 {
+    color: var(--accentColor3);
+    margin-top: -5%;
+    font-size: 2.5rem;
+    text-align: center;
+    white-space: nowrap;
+    width: 100%;
+    line-height: 60px;
+}
+
+.techStack {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 40px;
+    margin-left: 21%;
+   
+
+
+}
+
+.gridItem {
+
+    padding: 20px;
+    color: var(--accentColor4);
+
+}
+
+.gridItem:hover {
+    box-shadow: 0 0 5px 5px var(--accentColor3);
+    border-radius: 15px;
+}

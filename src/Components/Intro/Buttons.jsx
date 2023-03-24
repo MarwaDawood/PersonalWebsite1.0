@@ -5,7 +5,7 @@ import CV from '../../Fonts&Images/CV.pdf';
 const Buttons = () => {
   return (
     <div className="cta">
-        <a href={CV} download className="btn1"> Download CV </a>
+        <a href={CV} className="btn1" target="_blank" rel="noreferrer"> View CV </a>
         <a href="#contact" className="btn2"> Contact me! </a>
       
     </div>

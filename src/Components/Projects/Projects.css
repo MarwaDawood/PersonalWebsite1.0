@@ -1,0 +1,160 @@
+#projects {
+    margin-top: 50%;
+    height: 100vh;
+}
+
+
+.project_container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4rem;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+   
+
+}
+
+.project_item {
+    background-color: white;
+    padding: 1.2rem;
+    border-radius: 2rem;
+    border: solid 1px transparent;
+    transition: var(--transition);
+
+}
+
+.project_item:hover {
+    border-color: var(--accentColor4);
+    background-color: transparent;
+}
+
+.project_img {
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+
+.project_item h3 {
+    margin: 1.2rem 0 2rem;
+}
+
+.project_links {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.title3 {
+    font-size: 2.5rem;
+    color: var(--accentColor4);
+    text-align: center;
+    white-space: nowrap;
+    width: 100%;
+    line-height: 60px;
+
+}
+
+.project_title {
+
+            font-size: 1.5rem;
+            color: var(--accentColor4);
+            text-align: left;
+            white-space: nowrap;
+            width: 100%;
+            line-height: 60px;
+            margin-top: 4%;
+            margin-left: 15%;
+    
+        }
+
+.button {
+    width: max-content;
+        display: inline-block;
+        color: var(--accentColor4);
+        padding: 0.75rem 1.2rem;
+        font-size: 1.5rem;
+        cursor: pointer;
+        background-color: white;
+        border: 1.5px solid white;
+        border-radius: 15px;
+        transition: var(--transition);
+        box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+    
+    }
+
+.button:hover {
+    background-color: white;
+    color: var(--accentColor3);
+    border-color: var(--accentColor3);
+}
+
+/* Medium Devices */
+
+@media screen and (max-width: 1024px) {
+
+.project_container { 
+    
+grid-template-columns:1, 1fr;
+gap: 1.2rem;
+
+}
+
+}
+
+
+/* Small Devices */
+
+@media screen and (max-width: 600px) {
+
+.project_container {
+
+        grid-template-columns: 1fr;
+        gap: 1rem;
+
+    }
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+.projectImg1 {
+    width: 50%;
+    position: absolute;
+    overflow: hidden;
+    margin-left: 47%;
+    margin-top: 5%;
+    border: solid 2px var(--accentColor4);
+    border-radius: 30px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+}
+
+.project {
+    display: grid;
+
+}
+
+.project_name {
+    text-align: left;
+}
+*/
+ 

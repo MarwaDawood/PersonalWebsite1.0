@@ -1,6 +1,6 @@
 /* This component contains an introduction to your portfolio and yourself, including a brief summary of your skills and experience */
 import "./NavBar.css";
-import logo3 from '../../Fonts&Images/logo3.png'
+import logo3 from '../../Fonts&Images/logo4.png'
 
 
 /*

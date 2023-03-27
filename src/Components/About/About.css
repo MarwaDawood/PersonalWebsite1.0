@@ -15,7 +15,7 @@
      flex-wrap: wrap;
      width: 50%;
      height: 60%;
-     margin-top: 5%;
+     margin-top: -1%;
      margin-left: 45%;
      transform: rotate(0);
      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
@@ -31,39 +31,38 @@
     
  }
 
-.title1 {
-    font-size: 2.5rem;
-    color: var(--accentColor3);
-    text-align: center;
-    white-space: nowrap;
-    width: 100%;
-    line-height: 60px;
+ .gtkm {
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
 
-}
+ }
+
 
 .profilePic {
     width: 25rem;
     position: absolute;
     overflow: hidden;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 12%;
  
 }
 
 p {
- margin: 2rem;
+ margin: 1.2rem;
  color: var(--accentColor2);
   
 }
 
-.title2 {
-    color: var(--accentColor3);
-    margin-top: -5%;
-    font-size: 2.5rem;
-    text-align: center;
-    white-space: nowrap;
-    width: 100%;
-    line-height: 60px;
+.ts {
+        width: 32.5%;
+        height: 30%;
+        display: flex;
+        justify-content: center;
+        margin-left: 37%;
+
 }
 
 .techStack {
@@ -72,7 +71,6 @@ p {
     gap: 40px;
     margin-left: 21%;
    
-
 
 }
 

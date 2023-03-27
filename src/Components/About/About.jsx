@@ -5,6 +5,8 @@ import pic from '../../Fonts&Images/pic3.svg';
 import './About.css';
 import {SiCss3, SiHtml5, SiJavascript, SiReact, SiExpress, SiGithub, SiPostgresql, SiMysql, SiJest, SiCypress, SiFigma, SiPostman, SiNextdotjs, SiTrello} from 'react-icons/si';
 import {DiNodejs} from 'react-icons/di';
+import gtkm from '../../Fonts&Images/gtkm.png'
+import ts from '../../Fonts&Images/ts.png'
 
 
 const About = () => {
@@ -18,9 +20,9 @@ const About = () => {
 
       <div className="about_container"> 
           
-      <h2 className='title1'> Get to know me </h2>
+      <img src={gtkm} alt='gtkm' className='gtkm' />
 
-
+     
 
       <div className="about_me">
 
@@ -38,7 +40,7 @@ const About = () => {
     </div>   
  </div> 
 
-<h2 className='title2'> Tech Stack </h2>
+ <img src={ts} alt='gtkm' className='ts' />
 
 <div className='techStack'> 
 

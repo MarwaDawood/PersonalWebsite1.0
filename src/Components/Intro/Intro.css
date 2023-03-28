@@ -1,7 +1,8 @@
 header {
-    height: 70vh;
+    height: auto;
     padding-top: 3rem;
     overflow: hidden;
+
    
 }
 
@@ -29,7 +30,7 @@ header {
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 17rem;
+    bottom: 4rem;
     margin-left: 3%;
 }
 
@@ -44,7 +45,7 @@ header {
 .scroll_down {
     position: absolute;
     right: -1.5rem;
-    bottom: 23em;
+    bottom: 10em;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 1rem;

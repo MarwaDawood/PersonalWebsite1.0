@@ -13,11 +13,11 @@
 
 
 .git {
-    width: 30%;
-        height: 30%;
-        display: flex;
-        justify-content: center;
-        margin-left: 38%;
+width: 30%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
 }
 
 form {

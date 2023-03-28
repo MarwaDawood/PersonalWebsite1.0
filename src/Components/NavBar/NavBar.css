@@ -1,4 +1,76 @@
-nav {
+
+
+.navBar {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: var(--backgroundColor);
+    z-index: 999;
+    padding: 20px 20px 10px 30px;
+    top: 0;
+}
+
+.logo3 {
+    width: 110px;
+    position: fixed;
+    margin-left: 10px;
+    top: 0;
+    left: 0;
+    margin-left: 20px;
+}
+
+
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-left: 20px;
+    padding: 8px 5px 0px 10px;
+}
+
+
+li a {
+    text-decoration: none;
+    color: var(--accentColor2);
+    font-size: 30px;
+   
+}
+
+
+
+li a:hover {
+    text-decoration: none;
+    color: var(--accentColor3)
+}
+
+
+@media screen and (max-width: 600px) {
+    
+   .navBar {
+    height: 60px;
+    margin-left: 60%;
+    padding-top: 30px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+/*nav {
     position: absolute;
     display: flex;
     justify-content:flex-end;
@@ -7,22 +79,26 @@ nav {
     padding: 10px 0 10px 30px;
     background-color: var(--backgroundColor);
     top: 0;
+} 
 
 
-}
 
-nav > img {
-    width: 100px;
-    height: 100px;
-}
 
+.logo3 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 25px;
+    width: 11%;
+    margin-top: -25px;
+  
+} 
 
 ul {
     list-style-type: none;
     display: inline;
 
 }
-
 
 li {
     display: inline;
@@ -33,10 +109,9 @@ li {
 
 }
 
-
 li a {
     display: block;
-    padding: 10px ;
+    padding: 10px;
     color: var(--accentColor2);
     text-decoration: none;
 }
@@ -44,21 +119,9 @@ li a {
 
 
 
-li a:hover {
-    text-decoration: none;
-    color: var(--accentColor3)
-}
+
+*/
 
 
-.logo3 {
-    position: fixed;
-    top: 0;
-    left: 0;
-    margin-left: 25px;
-    width: 11%;
-    margin-top: -25px;
-
-   
-}
  
 

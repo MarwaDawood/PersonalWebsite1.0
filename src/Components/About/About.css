@@ -1,22 +1,23 @@
  .about_container {
-    height: 100vh;
-    margin-top: -25%;
+    height: auto;
+    margin-top: -30%;
     overflow: hidden;
   
  }
 
 
  .about_me {
-     aspect-ratio: 1/1;
+
      border-radius: 2rem;
      border: var(--accentColor3) solid;
      background: white;
      display: flex;
      flex-wrap: wrap;
      width: 50%;
-     height: 60%;
-     margin-top: -1%;
-     margin-left: 45%;
+     height: 15%;
+     margin-top: -8%;
+     margin-left: 40%;
+     margin-bottom: 5%;
      transform: rotate(0);
      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
     
@@ -31,22 +32,26 @@
     
  }
 
- .gtkm {
+ .gtkm, .ts {
     width: 30%;
-    height: 30%;
+    height: 20%;
     display: flex;
     justify-content: center;
     margin-left: 35%;
 
  }
 
+ .ts {
+    margin-left: 38%;
+ }
+
 
 .profilePic {
-    width: 25rem;
+    width: 20rem;
     position: absolute;
     overflow: hidden;
     margin-left: 10%;
-    margin-top: 12%;
+    margin-top: 20%;
  
 }
 
@@ -56,14 +61,6 @@ p {
   
 }
 
-.ts {
-        width: 32.5%;
-        height: 30%;
-        display: flex;
-        justify-content: center;
-        margin-left: 37%;
-
-}
 
 .techStack {
     display: inline-grid;
@@ -84,4 +81,63 @@ p {
 .gridItem:hover {
     box-shadow: 0 0 5px 5px var(--accentColor3);
     border-radius: 15px;
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+
+    .techStack {
+           
+            margin-left: 9%;
+
+}
+
+.profilePic {
+    
+    margin-left: 5%;
+    margin-top: 30%;
+
+}
+
+.about_container {
+    margin-top: -65%;
+}
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 600px) { 
+
+    .about_container {
+            margin-top: -95%;
+        }
+    
+    .about_me {
+        width: 100%;
+       
+    }
+
+    .profilePic {
+        display: none;
+    }
+
+        .gtkm,
+        .ts {
+            width: 70%;
+            margin-left: 50%;
+        }
+    
+        .techStack {
+            grid-template-columns: auto auto auto;
+            margin-left: 17%;
+            
+        }
+
+
 }

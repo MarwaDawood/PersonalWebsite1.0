@@ -1,14 +1,9 @@
-#projects {
-    margin-top: 60%;
-    height: 80vh;
-}
-
 
 .project_container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 4rem;
-    margin-top: 5%;
+    margin-top: -5%;
     margin-left: 3%;
     margin-right: 3%;
    
@@ -16,11 +11,12 @@
 }
 
 .p{ 
-    width: 30%;
+        width: 30%;
         height: 20%;
         display: flex;
         justify-content: center;
-        margin-left: 37%;;
+        margin-left: 37%;
+        margin-top: -7%;
 }
 
 .project_item {

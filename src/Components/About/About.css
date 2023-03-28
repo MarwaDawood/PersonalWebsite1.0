@@ -1,7 +1,7 @@
  .about_container {
     height: auto;
-    margin-top: -30%;
     overflow: hidden;
+    margin-top: -5%;
   
  }
 
@@ -43,6 +43,7 @@
 
  .ts {
     margin-left: 38%;
+    margin-top: -7%;
  }
 
 
@@ -51,7 +52,7 @@
     position: absolute;
     overflow: hidden;
     margin-left: 10%;
-    margin-top: 20%;
+    margin-top: 25%;
  
 }
 
@@ -66,7 +67,8 @@ p {
     display: inline-grid;
     grid-template-columns: auto auto auto auto auto;
     gap: 40px;
-    margin-left: 21%;
+    margin-left: 20%;
+    margin-top: -10%;
    
 
 }
@@ -102,7 +104,7 @@ p {
 }
 
 .about_container {
-    margin-top: -65%;
+    margin-top: 5%;
 }
 
 
@@ -115,7 +117,7 @@ p {
 @media screen and (max-width: 600px) { 
 
     .about_container {
-            margin-top: -95%;
+            margin-top: 5%;
         }
     
     .about_me {

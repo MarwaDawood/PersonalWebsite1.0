@@ -1,23 +1,19 @@
-#contact {
-    height: 75vh;
-    margin-top: 38%;
-}
 
 .contact_container {
-
     display: flex;
     justify-content: center;
-    margin-top: 2%;
+    margin-top: -8%;
 
 }
 
 
 .git {
-width: 30%;
+    width: 30%;
     height: 20%;
     display: flex;
     justify-content: center;
     margin-left: 35%;
+    margin-top: -7%;
 }
 
 form {
@@ -26,6 +22,7 @@ form {
     gap: 1.2rem;
     width: 75%;
 } 
+
 
 input, textarea {
   width: 100%;
@@ -62,15 +59,18 @@ input, textarea {
 
 /*  Medium devices */
 
-@media sreen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
 
+    .submitButton { 
+        margin-left: 74%;
+       
 
-
+    }
 }
 
 /*  Small devices */
 
-@media sreen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
 
 
 

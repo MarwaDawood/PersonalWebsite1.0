@@ -14,7 +14,7 @@ const data = [
   id: 1,
   image: project1,
   title: 'Home Grown',
-  description: 'Our team at the School of Code bootcamp came together with the goal of addressing real-world issues that are interconnected and impact our society. Through brainstorming and discussion, we identified climate change, the cost of living, and a lack of community as significant problems. In response, we developed an app to empower individuals to take steps towards a more sustainable, self-sufficient, and community-oriented future. Though our app may not solve these complex issues, it aims to provide guidance and resources to individuals looking to make a positive impact in their communities',
+  description: 'For our end of bootcamp project, our team at the School of Code bootcamp sought to address real-world issues that interconnect and impact society. After brainstorming and discussions, we identified significant problems such as climate change, high cost of living, and lack of community. Consequently, we developed Home-Grown, an application to empower individuals to take steps towards a more sustainable, self-sufficient, and community-oriented future. While acknowledging that our app may not solve these complex issues, it aims to offer guidance and resources to individuals looking to make a positive impact in their communities.',
   github: 'https://github.com/MarwaDawood/bc13_final-project_front-end-maccaw.git',
   demo: 'https://home-grown.vercel.app/'
 
@@ -23,7 +23,7 @@ const data = [
   id: 2,
   image: project2,
   title: 'Project Match',
-  description: 'For our project this week, we had to create an application that would enhance the experience or solve a problem a bootcamper on a coding bootcamp might face. From our discussion, which we used to create our user personas, we found the common problem that we have all found. As we are all new to the tech industry, it can be overwhelming to try work on projects independently. Our platform would be a social environment to enable people to connect and collaborate on projects together',
+  description: 'For our mini project week, our task was to develop an application that could improve the experience or resolve a challenge faced by a coding bootcamp attendee. Based on our discussions and the creation of user personas, we identified a common challenge encountered by most attendees - feeling overwhelmed when working on projects independently, especially as new entrants to the tech industry. As a solution, we conceptualized a social platform that fosters collaboration and networking among peers, providing an avenue for them to work on projects together.',
   github: 'https://github.com/MarwaDawood/week-nine-front-end-project',
   demo: 'https://project-match.netlify.app/'
 },

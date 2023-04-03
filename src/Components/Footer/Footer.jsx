@@ -28,7 +28,7 @@ const Footer = () => {
 
 </div>
 
-<div className='foot_copyright'>
+<div className='footer_copyright'>
 <small>&copy; Marwa Dawood. All rights reserved. </small>
 
 </div>

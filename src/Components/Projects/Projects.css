@@ -25,6 +25,24 @@
     transition: var(--transition);
 }
 
+.techstacktitle {
+    color: var(--accentColor4);
+    font-weight: bold;
+    margin-right: -6%;
+    white-space: nowrap;
+
+}
+
+.techStack1 {
+    display: flex;
+    margin-left: 3%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+   
+}
+
+
+
 
 .project_item:hover {
     border-color: var(--accentColor4);
@@ -93,6 +111,12 @@
     grid-template-columns:1, 1fr;
     gap: 1.2rem;
 }
+
+.techstacktitle {
+    margin-right: 2%;
+}
+
+
 }
 
 
@@ -114,6 +138,8 @@
     margin-left: 48%;
     margin-top: -10%;
 }
+
+
 }
 
 

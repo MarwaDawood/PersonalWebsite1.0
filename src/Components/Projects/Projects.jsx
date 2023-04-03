@@ -15,6 +15,7 @@ const data = [
   image: project1,
   title: 'Home Grown',
   description: 'For our end of bootcamp project, our team at the School of Code bootcamp sought to address real-world issues that interconnect and impact society. After brainstorming and discussions, we identified significant problems such as climate change, high cost of living, and lack of community. Consequently, we developed Home-Grown, an application to empower individuals to take steps towards a more sustainable, self-sufficient, and community-oriented future. While acknowledging that our app may not solve these complex issues, it aims to offer guidance and resources to individuals looking to make a positive impact in their communities.',
+  techStack: 'Next.js - Firebase - CSS - Cypress - Jest - Render - Vercel - Express.js - Node.js - PostgreSQL',
   github: 'https://github.com/MarwaDawood/bc13_final-project_front-end-maccaw.git',
   demo: 'https://home-grown.vercel.app/'
 
@@ -24,6 +25,7 @@ const data = [
   image: project2,
   title: 'Project Match',
   description: 'For our mini project week, our task was to develop an application that could improve the experience or resolve a challenge faced by a coding bootcamp attendee. Based on our discussions and the creation of user personas, we identified a common challenge encountered by most attendees - feeling overwhelmed when working on projects independently, especially as new entrants to the tech industry. As a solution, we conceptualized a social platform that fosters collaboration and networking among peers, providing an avenue for them to work on projects together.',
+  techStack: 'React.js - CSS - Express.js - Node.js - PostgreSQL - Netlify',
   github: 'https://github.com/MarwaDawood/week-nine-front-end-project',
   demo: 'https://project-match.netlify.app/'
 },
@@ -39,7 +41,7 @@ const Project = () => {
 
    <div className='project_container'>
 {
-  data.map(({id, image, title, description, github, demo}) => {
+  data.map(({id, image, title, description, techStack, github, demo}) => {
     return (
        
 
@@ -47,7 +49,14 @@ const Project = () => {
       <div className='project_img'> <img src={image} alt={title} className='projectImg1' /> 
       </div> 
       <h3 className='project_title'> {title} </h3>
+
       <p> {description} </p>
+       
+
+     <p className='techStack1'>  <span className='techstacktitle'> Tech Stack: </span> {techStack}  </p>
+
+
+
      <div className='project_links'> 
         <a href={github} className='button' target="_blank" rel="noreferrer"> Source Code </a>
        <a href={demo} target="_blank" rel="noreferrer" className='button'> See Live </a>

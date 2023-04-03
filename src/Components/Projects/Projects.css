@@ -28,8 +28,8 @@
 .techstacktitle {
     color: var(--accentColor4);
     font-weight: bold;
-    margin-right: -6%;
     white-space: nowrap;
+    margin-right: 1%;
 
 }
 
@@ -112,14 +112,14 @@
     gap: 1.2rem;
 }
 
-.techstacktitle {
-    margin-right: 2%;
+
+.techStack1 {
+
+    margin-left: 5%;
+
 }
 
-
 }
-
-
 /* Small Devices */
 
 @media screen and (max-width: 600px) {
@@ -138,6 +138,20 @@
     margin-left: 48%;
     margin-top: -10%;
 }
+
+.techstacktitle {
+ 
+    margin-right: 3%;
+
+}
+
+.techStack1 {
+   
+    margin-left: 6%;
+    
+
+}
+
 
 
 }

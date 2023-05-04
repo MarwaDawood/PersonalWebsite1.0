@@ -14,7 +14,7 @@ const data = [
   id: 1,
   image: project1,
   title: 'Home Grown',
-  description: 'For our end of bootcamp project, our team at the School of Code bootcamp sought to address real-world issues that interconnect and impact society. After brainstorming and discussions, we identified significant problems such as climate change, high cost of living, and lack of community. Consequently, we developed Home-Grown, an application to empower individuals to take steps towards a more sustainable, self-sufficient, and community-oriented future. While acknowledging that our app may not solve these complex issues, it aims to offer guidance and resources to individuals looking to make a positive impact in their communities.',
+  description: 'For our final 4-week scrum project in a team of 6 for the School of Code bootcamp, we were tasked with creating an application that would address a current real-life problem. Our team chose to tackle the issues of high cost of living and lack of community cohesion. Our solution was to create an application that allows users to share their unused green space for growing food, thus promoting sustainable farming practices in urban areas. In addition, our app allows users to search for nearby green spaces where they can volunteer their time and contribute to local farming efforts. To enhance the user experience, our application also includes a blog that provides valuable insights, tips, and information related to urban agriculture.',
   techStack: 'Next.js - Firebase - CSS - Cypress - Jest - Render - Vercel - Express.js - Node.js - PostgreSQL',
   github: 'https://github.com/MarwaDawood/bc13_final-project_front-end-maccaw.git',
   demo: 'https://home-grown.vercel.app/'
@@ -24,7 +24,7 @@ const data = [
   id: 2,
   image: project2,
   title: 'Project Match',
-  description: 'For our mini project week, our task was to develop an application that could improve the experience or resolve a challenge faced by a coding bootcamp attendee. Based on our discussions and the creation of user personas, we identified a common challenge encountered by most attendees - feeling overwhelmed when working on projects independently, especially as new entrants to the tech industry. As a solution, we conceptualized a social platform that fosters collaboration and networking among peers, providing an avenue for them to work on projects together.',
+  description: 'For our mini 1-week project at the School Of Code bootcamp, we were tasked with developing an application that could improve the experience or resolve a challenge faced by a coding bootcamp attendee. Based on our discussions and the creation of user personas, we identified a common challenge encountered by most attendees - feeling overwhelmed when working on projects independently, especially as new entrants to the tech industry. As a solution, we conceptualized a social platform that fosters collaboration and networking among peers, providing an avenue for them to work on projects together.',
   techStack: 'React.js - CSS - Express.js - Node.js - PostgreSQL - Netlify',
   github: 'https://github.com/MarwaDawood/week-nine-front-end-project',
   demo: 'https://project-match.netlify.app/'

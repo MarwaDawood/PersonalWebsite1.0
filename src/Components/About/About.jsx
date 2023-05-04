@@ -29,12 +29,14 @@ const About = () => {
         
      
 
-      <p> I am a highly dedicated and motivated junior full-stack software developer with a strong track record of professional and personal achievements. With four years of experience in retail, sales, and people management, I have developed the ability to thrive in high-pressure environments and adapt to new challenges with ease. I am committed to delivering exceptional results and consistently meeting or exceeding expectations.  
+      <p> As a highly motivated and detail-oriented junior full-stack developer, I am dedicated to creating innovative solutions that drive business success. With five years of experience in retail and people management, I thrive in high-pressure environments and am committed to delivering exceptional results.  
 <br />
-        I am actively pursuing a career in tech by completing a Software Development Bootcamp at The School of Code. Through this program, I have gained a strong foundation in a range of technical skills, including HTML, CSS, JavaScript, React.js, GitHub, SQL, UI/UX, Node.js, Express.js, Next.js and TypeScript. These skills have allowed me to build and maintain a wide range of web applications and other software products.
+      Out of more than 1000 applicants, I was selected to participate in the School of Code's intensive 16-week full-stack software development bootcamp. During the program, I gained valuable hands-on experience in front-end development using HTML, CSS, JavaScript, and React. Additionally, I gained proficiency in back-end development with technologies like Node and Express. Through the bootcamp, I learned to work with RESTful APIs and gained practical experience in storing and retrieving data from databases. Furthermore, I gained familiarity with testing and used tools such as Jest and Cypress to ensure the quality of my code 
 <br />
 
     In addition to that, I have further developed my communication skills by participating in various discussions with team members on various platforms, and by collaborating with larger groups on projects. I have also honed my problem-solving abilities by breaking down complex code and devising effective solutions, and have refined my presentation skills through weekly hackathons where I had the opportunity to present my work.
+<br />
+  I am now eager to apply my skills and knowledge in a dynamic tech role, and have continued my learning by completing the highly acclaimed Harvard CS50X course and The Complete Web Developer: Zero to Mastery course on Udemy. 
       </p>
 
     </div>   

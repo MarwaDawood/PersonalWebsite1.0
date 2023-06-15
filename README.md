@@ -74,4 +74,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwadawood.marwadawood)
+

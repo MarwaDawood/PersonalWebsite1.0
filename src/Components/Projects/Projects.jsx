@@ -4,6 +4,7 @@ import React from 'react';
 import './Projects.css';
 import project1 from '../../Fonts&Images/project1.png';
 import project2 from '../../Fonts&Images/project2.png';
+import project3 from '../../Fonts&Images/project3.png';
 import pro from '../../Fonts&Images/pro.png'
 // import comingsoon from '../../Fonts&Images/comingsoon.png'
 
@@ -22,6 +23,15 @@ const data = [
 },
 {
   id: 2,
+  image: project3,
+  title: 'Karen Arthur - Life Coach ',
+  description: ' Worked with a small team under the guidance of Max and Ed from developedbyed to revamp a clients website, aiming to give it a more contemporary and polished appearance. Tasked with creating the website using Astro and Tailwind CSS, tools I had no prior experience with. However, I quickly familiarised myself with their documentations and advantages, enabling me to gain proficiency in effectively using both tools for the project. Gained valuable experience working in a team for a real client in a real-life situation with a timeline. Through effective communication, teamwork, and pair programming, we successfully met the timeline and exceeded both client and managers expectations. Max, Ed, and the client expressed satisfaction with the outcome. - Site to be launched in August 2023. ',
+  techStack: 'Astro - TailwindCSS - JavaScript - Animation - UI/UX',
+  github: 'https://github.com/developedbyed/tasty-transit',
+  demo: 'Site will go live in August 2023'
+},
+{
+  id: 3,
   image: project2,
   title: 'Project Match',
   description: 'For our mini 1-week project at the School Of Code bootcamp, we were tasked with developing an application that could improve the experience or resolve a challenge faced by a coding bootcamp attendee. Based on our discussions and the creation of user personas, we identified a common challenge encountered by most attendees - feeling overwhelmed when working on projects independently, especially as new entrants to the tech industry. As a solution, we conceptualized a social platform that fosters collaboration and networking among peers, providing an avenue for them to work on projects together.',
@@ -29,6 +39,7 @@ const data = [
   github: 'https://github.com/MarwaDawood/week-nine-front-end-project',
   demo: 'https://project-match.netlify.app/'
 },
+
 
 ];
 

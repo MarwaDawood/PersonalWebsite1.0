@@ -1,6 +1,6 @@
-/* This component contains an introduction to your portfolio and yourself, including a brief summary of your skills and experience */
 import "./NavBar.css";
 import logo3 from '../../Fonts&Images/logo4.png'
+
 
 
 /*
@@ -19,7 +19,7 @@ const NavBar = () => {
   
 
 
-    <a href='#'> <img src={logo3} alt="logo" className="logo3"/> </a> 
+    <a href="#home"> <img src={logo3} alt="logo" className="logo3"/> </a> 
     
    
            <ul>

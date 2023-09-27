@@ -1,7 +1,7 @@
 import React from 'react'
 import {BsLinkedin, BsGithub} from 'react-icons/bs';
 import {TfiEmail} from 'react-icons/tfi';
-import './Footer.css'
+import './footer.css'
 import logo3 from '../../Fonts&Images/logo4.png'
 
 const Footer = () => {
@@ -9,12 +9,12 @@ const Footer = () => {
     <footer>
 
 
-          <a href='#'> <img src={logo3} alt="logo" className="footer_logo"/> </a> 
+       <a href='#home'> <img src={logo3} alt="logo" className="footer_logo"/> </a> 
 
    
      <ul className='permalinks'> 
      
-     <li><a href='#'> Home </a></li>
+     <li><a href='#home'> Home </a></li>
      <li><a href='#about'> About </a></li>
      <li><a href='#projects'> Projects </a></li>
      <li><a href='#contact'> Contact </a></li>

@@ -8,7 +8,7 @@ import Socials from "./Socials"
 const Intro = () => {
 
   return (
-    <section id='intro'> 
+    <section id='home'> 
       <header>
         <div className="header_container">
   

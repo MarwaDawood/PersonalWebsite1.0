@@ -18,7 +18,7 @@ GitHub link to new site: https://github.com/MarwaDawood/MarwaDawood
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marwa-dawood/">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" align="center" width="35px" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" align="left" width="35px" />
   </a>
 
 

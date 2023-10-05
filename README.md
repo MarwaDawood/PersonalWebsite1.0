@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/102393807/209582830-5b30fe27-bc0d-4d81-b3fc-18b79082ca3e.png" alt=”my banner”>
+<img src="https://github.com/MarwaDawood/PersonalWebsite1.0/blob/main/src/Fonts&Images/banner1.png" alt=”my banner”>
 
 
 <h1 align="center">    Hi! 👋🏼   I'm Marwa!  </h1>

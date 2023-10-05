@@ -23,7 +23,7 @@ GitHub link to new site: https://github.com/MarwaDawood/MarwaDawood
 
 
   <a href="mailto:marwa.dawood@hotmail.com">
-    <img src="https://user-images.githubusercontent.com/102393807/209590242-2a31c21e-0f42-4934-b0ac-64bdccb87b7f.png" style="margin-left: 10px" width="40px" />
+    <img src="https://user-images.githubusercontent.com/102393807/209590242-2a31c21e-0f42-4934-b0ac-64bdccb87b7f.png" width="40px" />
   </a>
 </div>
 

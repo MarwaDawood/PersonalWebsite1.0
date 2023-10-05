@@ -24,6 +24,7 @@ const Contact = () =>  {
     <section id='contact'>
       
           <img src={git} alt='git' className='git' />
+          
       <div className='contact_container'>
         
         <form ref={form} onSubmit={sendEmail }> 

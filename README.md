@@ -5,7 +5,11 @@
 <h1 align="center">    Hi! 👋🏼   I'm Marwa!  </h1>
 <h4 align="center" >   I am a Junior Front-End Developer 👩🏻‍💻 </h4>
 
-<p align="center" > This marked my first venture into crafting my personal website/portfolio. Leveraging what I had learned at the School of Code, I designed my website using the Figma tool and brought it to life with Next.js. Thanks to Next.js, my website effortlessly adapts to different devices and screen sizes, ensuring a seamless experience for all visitors. Since, I've revamped my website! Please visit new site here : www.marwadawood.com - GitHub link to new site: https://github.com/MarwaDawood/MarwaDawood
+<p align="center" > This marked my first venture into crafting my personal website/portfolio. Leveraging what I had learned at the School of Code, I designed my website using the Figma tool and brought it to life with Next.js. Thanks to Next.js, my website effortlessly adapts to different devices and screen sizes, ensuring a seamless experience for all visitors. 
+ <br/> 
+Since, I've revamped my website! Please visit new site here : www.marwadawood.com 
+<br/>
+GitHub link to new site: https://github.com/MarwaDawood/MarwaDawood
 </p>
  
  

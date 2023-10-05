@@ -15,10 +15,10 @@ GitHub link to new site: https://github.com/MarwaDawood/MarwaDawood
  
 
 ## 🤝🏼 Connect with me
+<div  align="center" gap="3'>
+<a href="https://www.linkedin.com/in/marwa-dawood/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="35px"/> </a>
+<a href="mailto:marwa.dawood@hotmail.com"> <img src="https://user-images.githubusercontent.com/102393807/209590242-2a31c21e-0f42-4934-b0ac-64bdccb87b7f.png" width="40px"/></a>
 
-<a href="https://www.linkedin.com/in/marwa-dawood/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="35px"/> </a>
-<a href="mailto:marwa.dawood@hotmail.com"> <img align="center" src="https://user-images.githubusercontent.com/102393807/209590242-2a31c21e-0f42-4934-b0ac-64bdccb87b7f.png" width="40px"/></a>
-
-  
+ </div> 
 
 </div>
